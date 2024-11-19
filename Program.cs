@@ -18,7 +18,7 @@ class Program
 
         for (int i = 0; i <= 5; i++)
         {
-            Console.Write(num[i] + " ");
+            Console.Write(num[i] + " " + "roshan");
         }
 
         foreach(int i in num){
