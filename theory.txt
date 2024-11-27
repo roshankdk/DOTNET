@@ -1,0 +1,27 @@
+## Polymorphism
+
+
+## Method Overloading
+1. All the methods should hae same name
+2. All the methods should have smae cladd
+3. but methods should have different parameters
+            Same types of parameters
+            Same numbers of paremeters
+            Same sequences of parameters
+4. There should be inheritance between classes
+
+## Method hiding and overriding
+
+Method hiding
+1. A techique in which a user can re define the method of a base or parent class using the new keyword. This results in hiding the main basic inplementation provided by the base class o fthat particulat method. 
+2. In method hiding, a base class reference variable pinting to a  child class objectm will invoke the hiding method of the base class
+
+
+Method Overriding
+1. Method overriding allows usto have virtual and abstract method in the base using derived classes with the same name and the same pareamenter
+2.it is used to achieve runtime polymorphism
+3. It enable we to provide specific implementation if the method in child class which is already provided by its base class
+
+Override: A method with override keywoard in a child class means it is overriding a virtual method of parent class to pricide different implementaion
+: The override keyword override sthe base clas smethod int he derived class
+
